@@ -1,1 +1,1 @@
-# Interactive-Ninja-Quiz
+# Ninja-Quiz
